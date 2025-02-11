@@ -4,10 +4,10 @@
 public class AboutMe {
 
     private String name = "Juan Manuel";
-    private String description = "Backend developer specialized in Java and Spring Boot. "
-                               + "Passionate about REST APIs.";
-    private String[] technologies = { "Java", "Spring Boot", "MySQL", "AWS S3" };
-    private String learning = "I'm currently learning Angular";
+    private String description = "Backend developer in Java and Spring Boot. "
+                               + "Passionate about REST APIs and Mobile dev.";
+    private String[] technologies = { "Java", "Spring Boot", "MySQL", "AWS S3", "Kotlin" };
+    private String learning = "I'm currently learning Kotlin";
     private String[] projects = {
         "FoodTrail-Api: API for gastronomy management.",
         "InmoManager: Platform for real estate companies."
